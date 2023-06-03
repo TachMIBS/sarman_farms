@@ -4,7 +4,7 @@ import 'package:hexcolor/hexcolor.dart';
 ///// ios  127.0.0.1
 /// android 10.0.2.2
 
-String uri = 'http://0.0.0.0:3000';
+String uri = 'http://0.0.0.0:10000';
 
 class GlobalColors {
   static HexColor mainColor = HexColor('#40B984');
